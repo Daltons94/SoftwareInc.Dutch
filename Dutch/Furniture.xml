@@ -1,34 +1,34 @@
 <Furniture>
 	<Furniture Name="Elevator">
 		<Name>Lift</Name>
-		<Description>Plaats liften bovenop elkaar om verschillende verdiepingen met elkaar te verbinden</Description>
+		<Description>Plaats liften bovenop elkaar om verschillende verdiepingen met elkaar te verbinden.</Description>
 	</Furniture>
 	<Furniture Name="Table">
 		<Name>Tafel</Name>
-		<Description>Zet spullen erop en stoelen eromheen</Description>
+		<Description>Zet spullen erop en stoelen eromheen.</Description>
 	</Furniture>
 	<Furniture Name="Glass Table">
 		<Name>Glazen Tafel</Name>
-		<Description>Geniet van het uitzicht van je voeten terwijl je werkt</Description>
+		<Description>Geniet van het uitzicht van je voeten terwijl je werkt.</Description>
 	</Furniture>
 	<Furniture Name="2m End Table">
 		<Name>2m Tafel Hoofd</Name>
-		<Description>Ongeveer rond</Description>
+		<Description>Ongeveer rond.</Description>
 	</Furniture>
 	<Furniture Name="3m End Table">
 		<Name>3m Tafel Hoofd</Name>
-		<Description>Nog meer rond</Description>
+		<Description>Nog meer rond.</Description>
 	</Furniture>
 	<Furniture Name="Cheap Chair">
 		<Name>Goedkope Stoel</Name>
-		<Description>Oncomfortabele plastic stoel</Description>
+		<Description>Oncomfortabele plastic stoel.</Description>
 	</Furniture>
 	<Furniture Name="Office Chair">
 		<Name>Bureuastoel</Name>
-		<Description>Mooi beklede stoel, maar zonder wielen</Description>
+		<Description>Mooi beklede stoel, maar zonder wielen.</Description>
 	</Furniture>
 	<Furniture Name="Waiting Chairs">
-		<Name>Wachtkamer Stoelen</Name>
+		<Name>Wachtkamer Stoelen.</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Couch">
@@ -36,35 +36,35 @@
 		<Description>Living Room Inc.</Description>
 	</Furniture>
 	<Furniture Name="Small Heater">
-		<Name>Small Heater</Name>
-		<Description>Humble heating unit for your basic office needs</Description>
+		<Name>Kleine Kachel</Name>
+		<Description>Kleine verwarm unit voor een klein kantoor.</Description>
 	</Furniture>
 	<Furniture Name="Ceiling Fan">
-		<Name>Ceiling Fan</Name>
-		<Description>Nifty ceiling fan, which not only looks cool, but also cools down the room! May cause noise pollution.</Description>
+		<Name>Plafondventilator</Name>
+		<Description>Handige ventilator aan het plafond, die er niet alleen cool uit ziet, maar ook de kamer koelt! Kan geluidsoverlast veroorzaken.</Description>
 	</Furniture>
 	<Furniture Name="Radiator">
 		<Name>Radiator</Name>
-		<Description>Runs on expensive district heating, but is a lot more effective than a small heater.</Description>
+		<Description>Werkt op dure stadsverwarming, maar is effectiever dan een kleine kachel.</Description>
 	</Furniture>
 	<Furniture Name="Ventilation">
-		<Name>Ventilation</Name>
-		<Description>Small ventilation unit that takes air directly from the other side of a wall. Can be cranked up to super cool rooms with servers.</Description>
+		<Name>Ventilatie</Name>
+		<Description>Kleine ventilator unit dat de lucht rechtstreeks van de andere kant van de muur haalt. Kan geboost worden om kamers met servers extra koud te maken.</Description>
 	</Furniture>
 	<Furniture Name="Central Heating">
-		<Name>Central Heating</Name>
-		<Description>Industrial strength central heating unit to heat up entire buildings. Very noisy and very ugly.</Description>
+		<Name>Centrale Verwarming</Name>
+		<Description>Centrale verwarming unit om gehele gebouwen te verwarmen. Zeer luidruchtig en verschrikkelijk lelijk.</Description>
 	</Furniture>
 	<Furniture Name="AC Unit">
-		<Name>AC Unit</Name>
-		<Description>Industrial strength air conditioning unit to cool down entire building complexes. Extremely noisy and ugly, and has to be placed above ground.</Description>
+		<Name>Airco</Name>
+		<Description>Airco om hete gebouwen af te koelen. Zeer luidruchtig en verschrikkelijk lelijk. Moet boven de grond geplaatst worden.</Description>
 	</Furniture>
 	<Furniture Name="Old Computer">
-		<Name>Old Computer</Name>
-		<Description>More pixels than you can count on one hand!</Description>
+		<Name>Oude Computer</Name>
+		<Description>Heeft meer pixels dan jij op 1 hand kan tellen!</Description>
 	</Furniture>
 	<Furniture Name="90s Computer">
-		<Name>90s Computer</Name>
+		<Name>Computer uit de jaren 1990.</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Laptop">
@@ -72,132 +72,132 @@
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Modern Computer">
-		<Name>Modern Computer</Name>
-		<Description>Modern computer for all your modern computer needs</Description>
+		<Name>Moderne Computer</Name>
+		<Description>Moderne computer voor al je moderne computer behoeften.</Description>
 	</Furniture>
 	<Furniture Name="HoloComputer">
-		<Name>HoloComputer</Name>
-		<Description>Welcome to the future! Where everything is a little less convenient</Description>
+		<Name>Holografische Computer</Name>
+		<Description>Welkom in de toekomst! Waar alles een beetje minder gemakkelijk is.</Description>
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lamp</Name>
-		<Description>Make sure your employees can see when they are working late or if you can't be bothered placing windows</Description>
+		<Description>Zorgt ervoor dat je personeel alles kunt zien wanneer ze laat aan het werk zijn of als u geen ramen wilt plaatsen.</Description>
 	</Furniture>
 	<Furniture Name="Wall Lamp">
-		<Name>Wall Lamp</Name>
+		<Name>Wandlamp</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Desk Lamp">
-		<Name>Desk Lamp</Name>
-		<Description>For localized lighting improvements</Description>
+		<Name>Bureaulamp</Name>
+		<Description>Om lokaal het licht te verbeteren.</Description>
 	</Furniture>
 	<Furniture Name="Floor Lamp">
-		<Name>Floor Lamp</Name>
-		<Description>Makes light, but is also in the way</Description>
+		<Name>vloerlamp</Name>
+		<Description>Maakt het licht, maar staat altijd in de weg.</Description>
 	</Furniture>
 	<Furniture Name="Fridge">
-		<Name>Fridge</Name>
-		<Description>Food generator</Description>
+		<Name>Koelkast</Name>
+		<Description>Voedsel maker.</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Instant Coffee</Name>
-		<Description>You soak some brown powder in hot water and I guess you feel less tired at some point?</Description>
+		<Name>Oploskoffie</Name>
+		<Description>Je lost bruin poeder op in warm water en ik denk dat je minder moe word op een punt?</Description>
 	</Furniture>
 	<Furniture Name="Coffee">
-		<Name>Coffee</Name>
-		<Description>Your standard ground coffee machine</Description>
+		<Name>Koffie</Name>
+		<Description>Standaard gemalen koffie machine.</Description>
 	</Furniture>
 	<Furniture Name="Espresso Machine">
 		<Name>Espresso Machine</Name>
-		<Description>Delivers high quality coffee by being noisy and consuming large amounts of water, electricity and maintenance</Description>
+		<Description>Levert hoge kwaliteit koffie maar is: luidruchtig, gebruikt grote hoeveelheden water, elektriciteit en onderhoud.</Description>
 	</Furniture>
 	<Furniture Name="Toilet">
 		<Name>Toilet</Name>
-		<Description>Poop machine</Description>
+		<Description>Poep machine.</Description>
 	</Furniture>
 	<Furniture Name="Painting">
-		<Name>Painting</Name>
-		<Description>A corny painting to liven up the office</Description>
+		<Name>Schilderij</Name>
+		<Description>Een oubollig schilderij om het kantoor op te vrolijken.</Description>
 	</Furniture>
 	<Furniture Name="TV">
 		<Name>TV</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Bookshelf">
-		<Name>Bookshelf</Name>
-		<Description>Complete with books!</Description>
+		<Name>Boekenkast</Name>
+		<Description>Compleet met boeken!</Description>
 	</Furniture>
 	<Furniture Name="Reception desk">
-		<Name>Reception desk</Name>
+		<Name>Receptiebalie</Name>
 		<Description></Description>
 	</Furniture>
 	<Furniture Name="Floor Plant">
-		<Name>Floor Plant</Name>
-		<Description>A charming floor plant</Description>
+		<Name>Vloer Plant</Name>
+		<Description>Een charmante vloer plant.</Description>
 	</Furniture>
 	<Furniture Name="Table Plant">
-		<Name>Table Plant</Name>
-		<Description>Low-poly bonsai tree</Description>
+		<Name>Tafel Plant</Name>
+		<Description>Lage bonsai boom.</Description>
 	</Furniture>
 	<Furniture Name="Big Plant">
-		<Name>Big Plant</Name>
-		<Description>Takes up a lot of space, but employees agree that it makes up for it by looking nice</Description>
+		<Name>Grote Plant</Name>
+		<Description>Neemt veel ruimte in, maar je personeel is er mee eens dat het leuk is om ernaar te kijken.</Description>
 	</Furniture>
 	<Furniture Name="Clock">
-		<Name>Clock</Name>
-		<Description>Time machine!(Not an actual time machine)</Description>
+		<Name>Klok</Name>
+		<Description>Tijd machine!(Niet voor om er mee tijd te reizen)</Description>
 	</Furniture>
 	<Furniture Name="Small Server">
-		<Name>Small Server</Name>
-		<Description>A normal computer, but with more internet</Description>
+		<Name>Kleine Server</Name>
+		<Description>Een normale computer, maar met meer internet.</Description>
 	</Furniture>
 	<Furniture Name="Tower Server">
-		<Name>Tower Server</Name>
-		<Description>A high performance tower(Not an actual tower)</Description>
+		<Name>Server Toren</Name>
+		<Description>Een hoge prestatie toren(Niet een echte toren)</Description>
 	</Furniture>
 	<Furniture Name="Server Rack">
-		<Name>Server Rack</Name>
-		<Description>If one computer is not enough</Description>
+		<Name>Server Rek</Name>
+		<Description>Als 1 computer niet genoeg is!</Description>
 	</Furniture>
 	<Furniture Name="Phone">
-		<Name>Phone</Name>
-		<Description>Who you gonna call? Support!</Description>
+		<Name>Telefoon</Name>
+		<Description>Wie ga je bellen? Ondersteuning!</Description>
 	</Furniture>
 	<Furniture Name="Drawing Tablet">
-		<Name>Drawing Tablet</Name>
-		<Description>So much easier than manually inputting pixel coordinates</Description>
+		<Name>Telen Tablet</Name>
+		<Description>Zo veel gemakkelijk dan handmatig pixel coördinaten in te voeren.</Description>
 	</Furniture>
 	<Furniture Name="Calculator">
-		<Name>Calculator</Name>
-		<Description>Calculators are a programmer's best friend</Description>
+		<Name>Rekenmachine</Name>
+		<Description>Rekenmachines zijn de beste vriend van een programmeerder.</Description>
 	</Furniture>
 	<Furniture Name="Inbox">
 		<Name>Inbox</Name>
-		<Description>Help keep your employees organized, especially helpful for people who haven't heard of e-mail</Description>
+		<Description>Helpt je personeel om georganiseerd te werken, vooral handig voor mensen die nog niet hebben gehoord van e-mail.</Description>
 	</Furniture>
 	<Segment Name="Standard door">
-		<Name>Standard door</Name>
-		<Description>It's a door...</Description>
+		<Name>Standaard deur</Name>
+		<Description>Het is een deur...</Description>
 	</Segment>
 	<Segment Name="Sliding glass door">
-		<Name>Sliding glass door</Name>
-		<Description>Door that doubles as a window</Description>
+		<Name>Glazen Schuifdeur</Name>
+		<Description>Deur die ook functioneerd als een raam.</Description>
 	</Segment>
 	<Segment Name="Double doors">
-		<Name>Double doors</Name>
-		<Description>More doors per door purchase</Description>
+		<Name>Dubbele Deuren</Name>
+		<Description>Meer deuren voor een aankoop.</Description>
 	</Segment>
 	<Segment Name="Small window">
-		<Name>Small window</Name>
-		<Description>Completely useless if placed between rooms</Description>
+		<Name>Kleine Raam</Name>
+		<Description>Volkomen nutteloos indien het tussen 2 kamers wordt geplaatst.</Description>
 	</Segment>
 	<Segment Name="Large window">
-		<Name>Large window</Name>
-		<Description>If you want even more window</Description>
+		<Name>Grote Raam</Name>
+		<Description>Voor als je nog meer raam wilt.</Description>
 	</Segment>
 	<Segment Name="Wide window">
-		<Name>Wide window</Name>
-		<Description>For the widescreen experience</Description>
+		<Name>Brede Raam</Name>
+		<Description>Voor de volle ervaring.</Description>
 	</Segment>
 </Furniture>
 
